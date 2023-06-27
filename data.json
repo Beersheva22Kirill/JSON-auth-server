@@ -1,0 +1,16 @@
+{
+  "employees": [],
+  "users":[
+ 
+    {"email": "user@co.il",
+    "password":"$2a$10$5Oxj9GK3CGQkmIqnmZeygOMiXpua13E8wzaHjgMg8aTZsz9syBaq2",
+    "id":"user",
+    "passDecrypt":"user1234"
+    },
+    {"email": "admin@co.il",
+    "password":"$2a$10$K8A17CAD58srL/I6LP3/G.Pe83NLabxzfF1a2Xep.bwYxmP7OYVCW",
+    "id":"admin",
+    "passDecrypt":"admin1234"
+    }
+  ]
+}
