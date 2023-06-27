@@ -16,5 +16,5 @@ async function login(loginData){
     console.log("user Data", `email: ${email}, role: ${role}`)
 }   
 
-login({email: "admin@co.il" , password: "admin1234"})
+login({email: "admin@co.il2" , password: "admin12344"})
 
